@@ -1,5 +1,5 @@
 
 Weather-WebApp
 
-Project  completed
-Readme will be updated soon
+Project completed
+ReadMe will be updated soon
