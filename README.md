@@ -2,4 +2,4 @@
 Weather-WebApp
 
 Project completed
-ReadMe will be updated soon
+ReadMe file will be updated soon
