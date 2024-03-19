@@ -2,5 +2,5 @@
 Weather-WebApp
 
 Project completed
-ReadMe file will be updated soon asd
+ReadMe file will be updated soon 
 
